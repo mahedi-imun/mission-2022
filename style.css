@@ -3,3 +3,96 @@ body{
     margin:0;
     padding:0;
 }
+.flexible-container{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 40%;
+    margin: auto;
+}
+.half-width img{
+    width: 80%;
+}
+h1{
+    font-size: 50px;
+    margin:0;
+    line-height: 80px;
+    color: #030303;
+}
+p{
+    font-size: 20px;
+    color:#030303;
+}
+#explore-btn{
+    text-decoration: none;
+    color: #ffff;
+    padding: 10px 20px;
+    background-color: #FF5959;
+    border-radius: 5px;
+
+}
+#orange-colour{
+    color: #FFAD5A;
+}
+.heading{
+    height: 140px;
+    border-left:  5px solid #FF5959;
+    padding-left: 20px;
+}
+
+.all-mission{
+    margin-top: 30px;
+    justify-content: space-between;
+}
+.section-two h1{
+    text-align: center;
+}
+
+.target2022{
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+.target2022 img{
+    width: 40%;
+}
+.target2022 p {
+    font-size: 16px;
+}
+.mission{
+    background-color: #EDF5F6;
+
+}
+.Vission {
+    background-color: #FFEEEE;
+}
+.Goals{
+    background-color: #FFF4D6;
+}
+
+.half-width-two{
+    width: 50%;
+}
+.half-width-two img{
+    width:70%;
+}
+.half-width-two h2{
+    font-size: 30px;
+}
+.half-width-two a{
+    padding: 10px 25px;
+    background-color: #FF5959;
+    text-decoration: none;
+    color: #ffff;
+    font-size: 14px;
+    border-radius: 5px;
+}
+.section-four img{
+    float: right;
+    
+}
